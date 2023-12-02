@@ -1,0 +1,52 @@
+[
+    {
+        "key": "hp",
+        "baseRolls": ["209.13", "239.00", "268.88", "298.75"],
+        "decimalPlaces": 0
+    },
+    {
+        "key": "atk",
+        "baseRolls": ["13.62", "15.56", "17.51", "19.45"],
+        "decimalPlaces": 0
+    },
+    {
+        "key": "def",
+        "baseRolls": ["16.20", "18.52", "20.83", "23.15"],
+        "decimalPlaces": 0
+    },
+    {
+        "key": "hp_",
+        "baseRolls": ["4.08", "4.66", "5.25", "5.83"],
+        "decimalPlaces": 1
+    },
+    {
+        "key": "atk_",
+        "baseRolls": ["4.08", "4.66", "5.25", "5.83"],
+        "decimalPlaces": 1
+    },
+    {
+        "key": "def_",
+        "baseRolls": ["5.10", "5.83", "6.56", "7.29"],
+        "decimalPlaces": 1
+    },
+    {
+        "key": "eleMas",
+        "baseRolls": ["16.32", "18.65", "20.98", "23.31"],
+        "decimalPlaces": 0
+    },
+    {
+        "key": "enerRech_",
+        "baseRolls": ["4.53", "5.18", "5.83", "6.48"],
+        "decimalPlaces": 1
+    },
+    {
+        "key": "critRate_",
+        "baseRolls": ["2.72", "3.11", "3.50", "3.89"],
+        "decimalPlaces": 1
+    },
+    {
+        "key": "critDMG_",
+        "baseRolls": ["5.44", "6.22", "6.99", "7.77"],
+        "decimalPlaces": 1
+    }
+]

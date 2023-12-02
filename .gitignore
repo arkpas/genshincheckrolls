@@ -1,0 +1,4 @@
+/output/*
+!/output/prettyDisplay
+/output/prettyDisplay/data.js
+/node_modules
